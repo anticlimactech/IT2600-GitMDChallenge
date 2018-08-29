@@ -5,7 +5,7 @@
 
 [Link to whateverYoudLike](whateverYoudLike.md)
 
-An image in the directory of my favorite super hero: ![Iron Man][ironman.jpg]
+An image in the directory of my favorite super hero: ![Iron Man](ironman.jpg)
 
 An image link to the best Starfleet captain: ![Captain Picard](http://1.bp.blogspot.com/-tnfzMG6tdaQ/Ty2bwj5Xp2I/AAAAAAAAAt4/w9LpMzhha78/s1600/Picard2379.jpg)
 
