@@ -18,3 +18,27 @@ A programmer's wife sent him to the store. Her instructions were:
 
 The programmer came home with 12 loaves of bread.
 
+- This
+- is
+- a
+- bulleted
+- list!
+
+1. This
+2. is
+3. a
+4. numbered
+5. list!
+
+| This | is | a |
+| --- | --- | --- |
+| table | made | using |
+| mark | down | ! |
+
+**This text is bold!**
+
+*This text is italicized!*
+
+~~This text is struckthrough~~
+
+---
